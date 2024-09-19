@@ -16,18 +16,6 @@
 }
 
 
-/*inizio della lista*/
-
-.card {
-    background-color:aliceblue;
-    border-radius: 30px;
-    max-width: 700px;
-    padding: 42px;
-    margin-top: 70px;
-    margin-left: 270px;
-    
-}
-
 .user-avatar {
     width: 70px;
     border-radius: 60px;
@@ -56,15 +44,23 @@
 }
 
 
-.button {
-    color: rgb(0, 255, 94);
-    margin: 20px;
-    border-radius: 30px;
-
-}
-
 .header,
 .body {
     padding-left: 32px;
     padding-right: 32px;
 }
+
+
+/*inizio della lista*/
+
+.header-conteiner {
+    background-color:rgb(177, 213, 244);
+    border-radius: 30px;
+    max-width: 700px;
+    padding: 42px;
+    margin-top: 80px;
+    margin-left: 170px;
+    
+}
+
+
