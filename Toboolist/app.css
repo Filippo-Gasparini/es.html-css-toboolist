@@ -1,0 +1,79 @@
+.protest-guerrilla-regular {
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+
+
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.conteiner {
+    max-width: 1024px;
+    margin: 0 auto;
+
+}
+
+.main-header {
+    background-color: aliceblue;
+    padding: 20px 12px;
+}
+
+
+
+.card {
+    background-color:aliceblue;
+    border-radius: 30px;
+    max-width: 700px;
+    padding: 42px;
+    margin-top: 70px;
+    margin-left: 270px;
+    
+}
+
+.user-avatar {
+    width: 70px;
+    border-radius: 60px;
+}
+
+.user-name {
+    border-radius: 900px;
+    background-color: rgb(22, 245, 22);
+    font-size: 30px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.user-avatar, .user-name {
+    vertical-align: middle;
+}
+
+
+.user-avatar, .user-name {
+    margin-left: 20px;
+}
+
+
+.user-name {
+    box-sizing: border-box;
+}
+
+
+.button {
+    color: rgb(0, 255, 94);
+    margin: 20px;
+    border-radius: 30px;
+
+}
+
+.header,
+.body {
+    padding-left: 32px;
+    padding-right: 32px;
+}
